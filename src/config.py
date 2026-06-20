@@ -1,0 +1,4 @@
+import os
+
+COSMIC_CONFIDENCE_THRESHOLD = 0.45
+CHROMA_DB_DIR = './chroma_db'

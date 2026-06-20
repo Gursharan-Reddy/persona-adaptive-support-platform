@@ -1,0 +1,4 @@
+Adsparkx Billing and Dispute Resolutions Guidelines:
+- All standard billing dispute reviews take exactly 3 to 5 business days to resolve.
+- Duplicate operational processing charges due to transaction race-conditions are flagged immediately.
+- Refund adjustments are handled through manual human audit pathways.
